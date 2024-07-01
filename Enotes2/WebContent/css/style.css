@@ -1,0 +1,27 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+/* body{
+	width:100vh; 
+	height:100vh !important;
+} */
+.bg-custom{
+	background-color: #8e24aa;
+}
+
+.navbar .nav-item .nav-link{
+	font-size: 20px;
+	color: white;
+}
+
+.navbar-custom .nav-item:hover .nav-link{
+	color: black;
+	background-color: white;
+	border-radius: 10px;
+}
+
+
+
+
